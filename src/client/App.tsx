@@ -68,7 +68,7 @@ export default function App() {
 
   return (
     <div className="app-container">
-      <h2>Product Management</h2>
+      <h2>Product Gamyam</h2>
 
       <div className="search-row">
         <input
